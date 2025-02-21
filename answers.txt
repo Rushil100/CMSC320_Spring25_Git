@@ -4,3 +4,10 @@ A1: Git is very useful as it allows us to save versions of our code,
     it so that many people can work on a project at the same time and
     they can have their own versions of the code.
 
+Q2: What field could data science be applied to? Give an Example.
+A2: Data Science can be very helpful in the agriculture feild. The data
+    from previous storms and droughts could be used to predict the weather
+    conditions. Sensors can be used in the soil to measure moisture and
+    farmers could use that to predict the optimal amount of water needed
+    and improve their irrigation.
+
