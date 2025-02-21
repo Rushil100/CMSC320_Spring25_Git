@@ -11,3 +11,10 @@ A2: Data Science can be very helpful in the agriculture feild. The data
     farmers could use that to predict the optimal amount of water needed
     and improve their irrigation.
 
+Q3: What is the difference between Merging and Rebasing?
+A3: When you merge, it combines the 2 branches, but the histories of both the
+    branches are still preserved. When you do rebasing, the history of the
+    branch is rewritten, the changes made in that branch are placed on top
+    of the other branch by making new commits, making it seem that all the
+    changes were made in the target branch. (There are no merge commits)
+
