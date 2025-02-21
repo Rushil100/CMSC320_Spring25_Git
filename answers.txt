@@ -18,3 +18,13 @@ A3: When you merge, it combines the 2 branches, but the histories of both the
     of the other branch by making new commits, making it seem that all the
     changes were made in the target branch. (There are no merge commits)
 
+Q4: What are you looking forward to this semester?
+A4:  I wish to learn about how to process all the big datasets into something
+     useful, which can be used to make predictions about various fields. I
+     also wish to learn about the real life applications of data science, as
+     I wish to pursue this field in the future.
+
+    
+    
+
+
