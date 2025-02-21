@@ -1,0 +1,7 @@
+Q2: What field could data science be applied to? Give an Example.
+A2: Data Science can be very helpful in the agriculture feild. The data
+    from previous storms and droughts could be used to predict the weather
+    conditions. Sensors can be used in the soil to measure moisture and
+    farmers could use that to predict the optimal amount of water needed
+    and improve their irrigation.
+
